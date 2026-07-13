@@ -1,0 +1,6 @@
+body{margin:0;font-family:Arial,sans-serif;background:#0f172a;color:#fff;display:flex;flex-direction:column;min-height:100vh}
+header{display:flex;align-items:center;gap:16px;padding:24px 10%;background:#111827}
+.logo{width:64px;height:64px}
+.card{margin:60px auto;background:#1e293b;padding:32px;border-radius:14px;max-width:700px;width:90%;text-align:center;box-shadow:0 8px 20px rgba(0,0,0,.3)}
+.btn{display:inline-block;margin-top:20px;padding:12px 22px;background:#2563eb;color:#fff;text-decoration:none;border-radius:8px}
+footer{margin-top:auto;text-align:center;padding:20px;color:#cbd5e1}
